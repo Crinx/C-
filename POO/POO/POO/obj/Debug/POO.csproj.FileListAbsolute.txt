@@ -1,0 +1,6 @@
+C:\Users\tOOn\Desktop\C#\POO\POO\POO\bin\Debug\POO.exe.config
+C:\Users\tOOn\Desktop\C#\POO\POO\POO\bin\Debug\POO.exe
+C:\Users\tOOn\Desktop\C#\POO\POO\POO\bin\Debug\POO.pdb
+C:\Users\tOOn\Desktop\C#\POO\POO\POO\obj\Debug\POO.csprojResolveAssemblyReference.cache
+C:\Users\tOOn\Desktop\C#\POO\POO\POO\obj\Debug\POO.exe
+C:\Users\tOOn\Desktop\C#\POO\POO\POO\obj\Debug\POO.pdb

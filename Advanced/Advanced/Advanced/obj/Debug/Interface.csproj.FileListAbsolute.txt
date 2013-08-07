@@ -1,0 +1,6 @@
+C:\Users\tOOn\Desktop\C#\Advanced\Advanced\Advanced\bin\Debug\Advanced.exe.config
+C:\Users\tOOn\Desktop\C#\Advanced\Advanced\Advanced\bin\Debug\Advanced.exe
+C:\Users\tOOn\Desktop\C#\Advanced\Advanced\Advanced\bin\Debug\Advanced.pdb
+C:\Users\tOOn\Desktop\C#\Advanced\Advanced\Advanced\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\tOOn\Desktop\C#\Advanced\Advanced\Advanced\obj\Debug\Advanced.exe
+C:\Users\tOOn\Desktop\C#\Advanced\Advanced\Advanced\obj\Debug\Advanced.pdb

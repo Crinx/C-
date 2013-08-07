@@ -1,0 +1,6 @@
+C:\Users\tOOn\Desktop\C#\Arrays e Collections\ArrayAndCollections\ArrayAndCollections\bin\Debug\ArrayAndCollections.exe.config
+C:\Users\tOOn\Desktop\C#\Arrays e Collections\ArrayAndCollections\ArrayAndCollections\obj\Debug\ArrayAndCollections.csprojResolveAssemblyReference.cache
+C:\Users\tOOn\Desktop\C#\Arrays e Collections\ArrayAndCollections\ArrayAndCollections\bin\Debug\ArrayAndCollections.exe
+C:\Users\tOOn\Desktop\C#\Arrays e Collections\ArrayAndCollections\ArrayAndCollections\bin\Debug\ArrayAndCollections.pdb
+C:\Users\tOOn\Desktop\C#\Arrays e Collections\ArrayAndCollections\ArrayAndCollections\obj\Debug\ArrayAndCollections.exe
+C:\Users\tOOn\Desktop\C#\Arrays e Collections\ArrayAndCollections\ArrayAndCollections\obj\Debug\ArrayAndCollections.pdb

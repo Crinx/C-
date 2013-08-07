@@ -1,0 +1,5 @@
+C:\Users\tOOn\Desktop\C#\Exceptions\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\tOOn\Desktop\C#\Exceptions\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\tOOn\Desktop\C#\Exceptions\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\tOOn\Desktop\C#\Exceptions\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\tOOn\Desktop\C#\Exceptions\Exceptions\Exceptions\obj\Debug\Exceptions.pdb

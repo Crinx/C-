@@ -1,0 +1,5 @@
+C:\Users\tOOn\Desktop\C#\Start_with_Objects\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe.config
+C:\Users\tOOn\Desktop\C#\Start_with_Objects\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe
+C:\Users\tOOn\Desktop\C#\Start_with_Objects\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.pdb
+C:\Users\tOOn\Desktop\C#\Start_with_Objects\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
+C:\Users\tOOn\Desktop\C#\Start_with_Objects\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb

@@ -1,0 +1,5 @@
+C:\Users\tOOn\Desktop\C#\Advanced\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\tOOn\Desktop\C#\Advanced\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\tOOn\Desktop\C#\Advanced\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\tOOn\Desktop\C#\Advanced\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\tOOn\Desktop\C#\Advanced\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb

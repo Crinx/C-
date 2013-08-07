@@ -1,0 +1,5 @@
+C:\Users\tOOn\Desktop\C#\Advanced\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\tOOn\Desktop\C#\Advanced\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\tOOn\Desktop\C#\Advanced\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\tOOn\Desktop\C#\Advanced\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\tOOn\Desktop\C#\Advanced\Delegates\Delegates\obj\Debug\Delegates.pdb
